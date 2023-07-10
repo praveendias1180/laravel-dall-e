@@ -29,3 +29,11 @@ curl https://api.openai.com/v1/images/generations \
     "size": "1024x1024"
   }'
 ```
+
+# Monkey Astronauts
+
+![](astronauts/img-1.png)
+![](astronauts/img-2.png)
+![](astronauts/img-3.png)
+![](astronauts/img-4.png)
+![](astronauts/img-5.png)
