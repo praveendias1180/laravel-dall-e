@@ -1,4 +1,6 @@
-# DALL-E 2
+# DALL-E 2 - Open AI Image Generation API
+
+## Using Laravel HTTP Client
 
 DALL·E 2 is an AI system that can create realistic images and art from a description in natural language.
 
@@ -37,3 +39,7 @@ curl https://api.openai.com/v1/images/generations \
 ![](astronauts/img-3.png)
 ![](astronauts/img-4.png)
 ![](astronauts/img-5.png)
+
+# Preview
+
+https://www.youtube.com/watch?v=mULSXVevNvQ
