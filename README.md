@@ -10,7 +10,9 @@ In January 2021, OpenAI introduced DALL·E. One year later, our newest system, D
 
 ## Empower People to Express Themselves Creatively
 
-Our hope is that DALL·E 2 will empower people to express themselves creatively. DALL·E 2 also helps us understand how advanced AI systems see and understand our world, which is critical to our mission of creating AI that benefits humanity.
+https://openai.com/dall-e-2
+
+Open AI hope is that DALL·E 2 will empower people to express themselves creatively. DALL·E 2 also helps us understand how advanced AI systems see and understand our world, which is critical to our mission of creating AI that benefits humanity.
 
 ![](dall-e-gen.png)
 
